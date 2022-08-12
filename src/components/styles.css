@@ -1,0 +1,7 @@
+.messages {
+  display: flex;
+  flex-direction: column;
+  overflow-y: scroll;
+  scrollbar-width: none;
+  background: url(https://img.wallpapersafari.com/desktop/728/410/54/0/HluF7g.jpg);
+}
